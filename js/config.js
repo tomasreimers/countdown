@@ -6,7 +6,7 @@ var timeline = {
         {
             "title": "Welcome to the Class of 2017",
             "date": "3/28/2013",
-            "icon": "Welcome.png"
+            "icon": "welcome.png"
         },
         {
             "title": "Reply to Offer of Admissions Deadline",

@@ -64,6 +64,11 @@ var timeline = {
             "icon": "forms.png"
         },
         {
+            "title": "July Writing Test Window",
+            "date": "7/10/2013",
+            "icon": "forms.png"
+        },
+        {
             "title": "Consider Student Health Insurance Deadline",
             "date": "7/31/2013",
             "icon": "forms.png"

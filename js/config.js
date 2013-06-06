@@ -44,9 +44,19 @@ var timeline = {
             "icon": "forms.png"
         },
         {
+            "title": "Alumni Record Forms (Extended) Deadline",
+            "date": "6/10/2013",
+            "icon": "forms.png"
+        },
+        {
             "title": "Online Placement Exams Open",
             "date": "6/19/2013",
             "icon": "testing.png"
+        },
+        {
+            "title": "Freshman Register (Extended) Deadline",
+            "date": "7/1/2013",
+            "icon": "forms.png"
         },
         {
             "title": "Final School Report Deadline",

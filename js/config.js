@@ -39,13 +39,13 @@ var timeline = {
             "icon": "writingb.png"
         },
         {
-            "title": "Submit Medical Forms",
-            "date": "6/15/2013",
+            "title": "Alumni Record Forms (Extended) Deadline",
+            "date": "6/10/2013",
             "icon": "forms.png"
         },
         {
-            "title": "Alumni Record Forms (Extended) Deadline",
-            "date": "6/10/2013",
+            "title": "Submit Medical Forms",
+            "date": "6/15/2013",
             "icon": "forms.png"
         },
         {
